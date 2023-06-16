@@ -14,7 +14,7 @@ The goal of this project was to create a snapchat like front only and use an API
 
 Length : 1 week
 
-Techcnologies used : React Native, Node.JS, expo
+Technologies used : React Native, Node.JS, expo
 
 ## Screenshots
 
